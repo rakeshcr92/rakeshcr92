@@ -1,86 +1,87 @@
-<!-- HEADER -->
+<!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&text=Welcome+to+Rakesh%27s+World!&animation=fadeIn&color=gradient&height=120" alt="welcome" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&text=Hey%20👋%20I'm%20Rakesh%20Cavala&fontAlign=50&fontColor=ffffff&desc=AI%20Engineer%20%7C%20ML%20Builder%20%7C%20CS%20%26%20Data%20Science%20@Rutgers&descAlign=50&descSize=16&color=gradient" />
 </p>
 
-<h1 align="center">👋 Hey there, I'm Rakesh Cavala (rakeshcr92)</h1>
-<h3 align="center">CS · AI Enthusiast · Full‑Stack Developer · Researcher</h3>
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/rakesh-cavala-7375641a8/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://devpost.com/rakesh-tpx007" target="_blank">
-    <img src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white" alt="Devpost"/>
-  </a>
+  <a href="mailto:rakesh.tpx007@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/rakesh-cavala-7375641a8/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
+  <a href="https://github.com/rakeshcr92"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://devpost.com/rakesh-tpx007"><img src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost"/></a>
 </p>
 
 ---
 
-<!-- ABOUT ME -->
-## 🚀 About Me
+## 👨‍💻 About Me
 
-- 🔭 Building **LifeLine** — an AI‑powered emergency response system
-- 🧠 Passionate about **NeuroTech**, ML, LLM agents & public safety
-- 🏆 Hackathon award‑winner with real‑world project impact
-- 🌱 Constantly learning new tools: LangGraph, cloud AI, data pipelines
+🎓 I'm a Computer Science & Data Science student at **Rutgers University**, passionate about building AI-powered tools that drive real-world impact.
 
+💡 I enjoy working on challenging projects, especially in:
+- Emergency AI systems 🤖🚨
+- Clinical AI & HealthTech 🧠🩺
+- Natural Language Processing (NLP) & Cloud Solutions ☁️
+
+🏆 I'm also a hackathon winner, research collaborator, and a firm believer in human-centered AI.
 
 ---
 
-<!-- STATS -->
+## 🚀 Featured Projects
+
+### 🧬 [LifeLine](https://devpost.com/software/lifeline-ai-emergency-response)
+AI-powered emergency dispatch platform with voice classification, emotion detection, and live mapping.
+
+### 🏥 PulseAI Portal
+Clinical NLP + CNN-based diagnostic assistant for disease detection & medical workflow automation.
+
+### 🌾 Agentic AI Farm Advisor
+Google Cloud-powered farm advisor for smallholder farmers with Vertex AI, GEE, and LLM-based support.
+
+### 🔧 ChittiLang
+An original statically typed programming language with a full parser, lexer, and interpreter in Python.
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:** Python, Java, C, SQL, JavaScript, HTML/CSS  
+**Frameworks & Libraries:** React, Node.js, Flask, TensorFlow, Keras, Pandas, NumPy, Seaborn, Matplotlib  
+**Databases:** MySQL, PostgreSQL, Firebase, Snowflake  
+**Cloud & DevOps:** Google Cloud (BigQuery, Vertex AI), AWS (EC2/S3), Firebase  
+**ML Focus:** Regression, Classification, ARIMA, LSTM, Model Tuning, Evaluation  
+**Tools:** Git, Twilio, Whisper, OpenAI GPT, Google Maps APIs, Leaflet.js  
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=rakeshcr92&show_icons=true&theme=solarized-dark" alt="GitHub stats"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakeshcr92&layout=compact&theme=solarized-dark" alt="Top Langs"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rakeshcr92&show_icons=true&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakeshcr92&layout=compact&theme=radical" height="165"/>
 </p>
 
 ---
 
-<!-- TOOLS AND TECH -->
-## 🛠️ Tech Stack
+## 🏆 Achievements & Leadership
+
+- 💼 **Data Analytics Extern** @ Beats by Dre – NLP & sentiment analysis on 10K+ reviews
+- 🧠 **Research** at Harvard Med, Mayo Clinic, NJ Stem Center
+- 🧑‍🏫 **Vice President** – MC Computer Science Club, led ML & web dev workshops
+- 🥇 Hackathon Wins – For real-world solutions in AI, healthcare, and agriculture
+
+---
+
+## 📬 Let's Connect
+
+- ✉️ Email: [rakesh.tpx007@gmail.com](mailto:rakesh.tpx007@gmail.com)  
+- 💼 LinkedIn: [rakesh-cavala](https://www.linkedin.com/in/rakesh-cavala-7375641a8/)  
+- 🌐 Devpost: [rakesh-tpx007](https://devpost.com/rakesh-tpx007)
+
+---
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openai/openai-original.svg" width="40" height="40"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=rakeshcr92&theme=gruvbox&title=MultiLanguage,Repositories,Stars,Commits,PullRequest,Followers" />
 </p>
 
----
-
-<!-- VISITOR COUNTER & BUG FOOTER -->
-## ✨ Fun Extras
-
-- 🧾 Guestbook / visitor counter (like JasonEtco uses) to track visits :contentReference[oaicite:2]{index=2}  
-- 🎮 Interactive game-like widget— e.g. Snake on commit grid or Connect4 issue game inspired by @jonathangin52, @tim﻿burgan :contentReference[oaicite:3]{index=3}  
-
----
-
-## 🌐 Featured Projects
-
-| Project | Description |
-|--------|-------------|
-| **LifeLine (Devpost)** | AI system for real-time emergency classification & response |
-| **Research Collaborations** | Works involving NeuroTech and ML at top institutions |
-| **Hackathons** | Projects that scale across domains, built for impact |
-
-🔗 Explore more on my Devpost and GitHub portfolio
-
----
-
-## 📫 Let's Connect
-
-- LinkedIn: [rakesh‑cavala](https://www.linkedin.com/in/rakesh-cavala-7375641a8)
-- Devpost: [rakesh‑tpx007](https://devpost.com/rakesh-tpx007)
-
----
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rakeshcr92&theme=dracula&row=1&no-frame=true" alt="Trophies" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
