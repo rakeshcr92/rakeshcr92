@@ -24,7 +24,7 @@
 - 🧠 Passionate about **NeuroTech**, ML, LLM agents & public safety
 - 🏆 Hackathon award‑winner with real‑world project impact
 - 🌱 Constantly learning new tools: LangGraph, cloud AI, data pipelines
-- 🧪 Research experience at Harvard Med, NJ Stem, and Mayo Clinic
+
 
 ---
 
