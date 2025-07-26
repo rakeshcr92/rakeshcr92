@@ -48,8 +48,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rakesh-tpx007&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakesh-tpx007&layout=compact&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rakeshcr92&show_icons=true&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakeshcr92&layout=compact&theme=radical" height="160"/>
 </p>
 
 ---
@@ -69,7 +69,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rakesh-tpx007&theme=gruvbox&no-frame=true&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=rakeshcr92&theme=gruvbox&no-frame=true&row=1" />
 </p>
 
 ---
